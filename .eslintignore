@@ -1,0 +1,5 @@
+src/setupTests.js
+src/index.js
+src/__tests__/*.js
+src/__mocks__/*.js
+# Os dois ultimos ainda não fiz

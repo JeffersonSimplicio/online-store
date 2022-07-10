@@ -1,5 +1,6 @@
 const DEFAULT_USER_LIST = [
-  { userName: 'Adimn', userEmail: 'admin@email.com', userPassword: 'adminadmin' },
+  { userName: 'Admin', userEmail: 'admin@email.com', userPassword: 'adminadmin' },
+  { userName: 'Chizuru Ichinose', userEmail: 'ChizuruIchinose@email.com', userPassword: 'Sora Amamiya' },
   { userName: 'Marcos Silva', userEmail: 'marcos_silva@email.com', userPassword: 'senhaforte' },
   { userName: 'Miku Nakano', userEmail: 'NakanoMiku@email.com', userPassword: 'MikuItou' },
   { userName: 'Gustavo Guanabara', userEmail: 'CursoEmVideo@email.com', userPassword: 'AlfredoJunior' },
